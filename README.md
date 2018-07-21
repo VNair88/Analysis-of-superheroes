@@ -49,7 +49,7 @@ Switching to other genders, the good and bad characters are approximately equal,
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/character%20alignment%20by%20gender%202.JPG "Bad Characters Alignment"
+[logo2]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/bad%20characters.PNG "Bad Characters Alignment"
 
 To see if the representation of male-other changes over time, we plotted the gender ratio of new characters in each decade. Although there was a spike in the 50's, an increasing trend in 'other genders' becomes apparent starting in the '60s. The 1960s is not-coincidentally the renewed fight for women's equality that partnered with the Civil Rights Movement. Though while there is a smaller proportion of male characters in the modern times, it is still far from a 50-50 representation and appears to be slowing at around a 75-25 male-other gender ratio.
 
@@ -65,7 +65,7 @@ Sexuality may be the conversation at the forefront of the representation debate,
 
 ![alt text][logo4]
 
-[logo4]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/wordcloud.jpg "Popular Superpowers"
+[logo4]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/word%20cloud.PNG "Popular Superpowers"
 
 By counting the number of superheroes with a given power, we created a wordcloud with the most popular descriptions of superpowers. The most common power descriptions include common ones like control, power, mainpulation, and animal, but also some less likely ones like cryokinesis and radiation. 
 
@@ -73,7 +73,7 @@ By counting the number of superheroes with a given power, we created a wordcloud
 
 ![alt text][logo5]
 
-[logo5]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/DC_Marvel_BO.JPG "Box Office Collection"
+[logo5]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/box%20office.PNG "Box Office Collection"
 
 While many comic fans have a deep personal preference for one comic universe or the other, there is no debate about which has been more successful in the box office. Marvel is far more successful, with the greatest DC movie not breaking the top 5 Marvel movies. 
 
