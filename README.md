@@ -2,7 +2,7 @@
 ### Co-authors : Palak Bhatia, Ben Richman 
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/5bc638b57a4b01dc047473fd6aecf1634377b497/notebook/Superheroes_v3.1.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/518e4edc59e41cec2d557c4a0ce0c6f85a5d5af9/notebook/Superheroes_v3.3.ipynb)
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
@@ -26,7 +26,7 @@ To visualize the relationships between historical events and the superheroes tha
 
 ![alt text][logo]
 
-[logo]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/superheroes_timeline.JPG "Superheroes Timeline 1"
+[logo]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/superheroes_timeline.png "Superheroes Timeline 1"
 Captain America is a product of WW2, a military symbol of all cultural calls of the time - that America act against Nazism, fascism, and communism, with the utmost leadership, strength, and honor. 
 
 The Cold War brought renewed interest in science and nuclear energy. Prominent scientist-heroes emerged, such as the Flash, the Hulk and Iron Man. Each character's alter ego romanticized science as America started valuing scientists as cultural and political figures. 
