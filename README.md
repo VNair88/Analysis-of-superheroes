@@ -2,13 +2,13 @@
 ### Co-authors : Palak Bhatia, Ben Richman 
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/Analysis_of_Superheroes/blob/f15e564c57614f185ac6e59798a2000a544cd2c4/Code/Superheroes.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/5bc638b57a4b01dc047473fd6aecf1634377b497/notebook/Superheroes_v3.1.ipynb)
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
 
 ## Getting Started
-In this Github, there is a Python notebook titled __ with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
+In this Github, there is a Python notebook titled Superheroes_v3.1.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
 
 ### Prerequisites/Tech Stack
 The following software is required for completing the notebook:
@@ -54,7 +54,7 @@ Switching to other genders, the good and bad characters are approximately equal,
 
 [logo2]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/bad%20characters.PNG "Bad Characters Alignment 1"
 
-To see if the representation of male-other changes over time, we plotted the gender ratio of new characters in each decade. Although there was a spike in the 50's, an increasing trend in 'other genders' becomes apparent starting in the '60s. The 1960s is not-coincidentally the renewed fight for women's equality that partnered with the Civil Rights Movement. Though while there is a smaller proportion of male characters in the modern times, it is still far from a 50-50 representation and appears to be slowing at around a 75-25 male-other gender ratio.
+To see if the representation of male-other changes over time, we plotted the gender ratio of new characters in each decade. An increasing trend in 'other genders' becomes apparent starting in the '60s. The 1960s witnessed a renewed fight for women's equality that partnered with the Civil Rights Movement. Though while there is a smaller proportion of male characters in the modern times, it is still far from a 50-50 representation and appears to be slowing at around a 75-25 male-other gender ratio.
 
 ### Representation of Sexuality
 
@@ -62,7 +62,7 @@ To see if the representation of male-other changes over time, we plotted the gen
 
 [logo3]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/representation%20of%20sexual%20minorities.jpg "Sexual Orientation 1"
 
-Sexuality may be the conversation at the forefront of the representation debate, and the representation of sexual orientation in comics is not does not show a balanced representation. Even looking at characters created after 2000, the representation is around 99% straight to 1% other, while the true population is around 90% straight and 10% other in a survey (https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201607/how-many-straight-people-are-there).
+Sexuality may be the conversation at the forefront of the representation debate, and the representation of sexual orientation in comics does not show a balanced representation. Even looking at characters created after 2000, the representation is around 99% straight  which is not indicative of the times. (https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201607/how-many-straight-people-are-there).
 
 ### Settling Marvel vs DC: Movie Success
 
@@ -70,7 +70,7 @@ Sexuality may be the conversation at the forefront of the representation debate,
 
 [logo5]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/box%20office.PNG "Box Office Collection 1"
 
-While many comic fans have a deep personal preference for one comic universe or the other, there is no debate about which has been more successful in the box office. Marvel is far more successful, with the greatest DC movie not breaking the top 5 Marvel movies. 
+While many comic fans have a deep personal preference for one comic universe or the other, there is no debate about which has been more successful in the box office. Marvel is far more successful, with the 5th highest earning Marvel movie  out grossing the most successful DC movie. 
 
 ### Appendix
 #### Additional Origins Timeline Insights
