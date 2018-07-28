@@ -12,11 +12,11 @@ In this Github, there is a Python notebook titled Superheroes_v3.1.ipynb with de
 
 ### Prerequisites/Tech Stack
 The following software is required for completing the notebook:
-    pandas, numpy, seaborn, matplotlib, plotly, wordcloud, and PIL.
+    pandas, numpy, seaborn, matplotlib, plotly.
 Each package can be installed through pip installation (https://packaging.python.org/tutorials/installing-packages/) or some packages are available to install through package managers built into software like Canopy or Anaconda. 
 All packages function best in the latest update of Python 3. 
 
-If you are unfamiliar with working with dataframes, seaborn, or matplotlib, it is recommended to refresh yourself on those packages before moving forward.
+If you are unfamiliar with working with dataframes, seaborn, plotly or matplotlib, it is recommended to refresh yourself on those packages before moving forward.
 
 ### Background
 With Marvel and DC's recent return to movie spotlight, claiming 4 of the top 10 highest grossing movies spots, it seemed a good idea to remind ourselves of the cultural and historical origins of the characters, and where the industry is headed. The datasets used encompass superheroes/villains and their first appearances, demographics, and powers, as well as a note on the relative grossing of the Marvel and DC movie universes. It is also important to note most of the data is centered around United States produced comics and superheroes. 
