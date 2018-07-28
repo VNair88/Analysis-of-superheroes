@@ -14,14 +14,7 @@ In this Github, there is a Python notebook titled Superheroes_v3.1.ipynb with de
 The following software is required for completing the notebook:
     pandas, numpy, seaborn, matplotlib, plotly, wordcloud, and PIL.
 Each package can be installed through pip installation (https://packaging.python.org/tutorials/installing-packages/) or some packages are available to install through package managers built into software like Canopy or Anaconda. 
-
-Note: Some packages like 'wordcloud' are smaller releases and must be installed through pip install and cannot be found in package managers.
-
-```
-pip install wordcloud
-```
-
-All packages except wordcloud function best in the latest update of Python 3. 
+All packages function best in the latest update of Python 3. 
 
 If you are unfamiliar with working with dataframes, seaborn, or matplotlib, it is recommended to refresh yourself on those packages before moving forward.
 
