@@ -2,13 +2,13 @@
 ### Co-authors : Palak Bhatia, Ben Richman 
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/c19f6001ac8947d6f4f22b69047021a1ab67b694/notebook/Superheroes_v3.3.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/ba09c516a76763c42b7fa1f462150a43b9c2f84c/notebook/Superheroes.ipynb)
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
 
 ## Getting Started
-In this Github, there is a Python notebook titled Superheroes_v3.3.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
+In this Github, there is a Python notebook titled Superheroes.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
 
 ### Prerequisites/Tech Stack
 The following software is required for completing the notebook:
