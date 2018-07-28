@@ -8,7 +8,7 @@ To view the interactive plots you can check the python notebook at -
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
 
 ## Getting Started
-In this Github, there is a Python notebook titled Superheroes_v3.1.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
+In this Github, there is a Python notebook titled Superheroes_v3.3.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
 
 ### Prerequisites/Tech Stack
 The following software is required for completing the notebook:
