@@ -64,14 +64,6 @@ To see if the representation of male-other changes over time, we plotted the gen
 
 Sexuality may be the conversation at the forefront of the representation debate, and the representation of sexual orientation in comics is not does not show a balanced representation. Even looking at characters created after 2000, the representation is around 99% straight to 1% other, while the true population is around 90% straight and 10% other in a survey (https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201607/how-many-straight-people-are-there).
 
-### Popular Superpower Descriptions
-
-![alt text][logo4]
-
-[logo4]: https://github.com/VNair88/Analysis-of-superheroes/blob/master/plots/word%20cloud.PNG "Popular Superpowers"
-
-By counting the number of superheroes with a given power, we created a wordcloud with the most popular descriptions of superpowers. The most common power descriptions include common ones like control, power, mainpulation, and animal, but also some less likely ones like cryokinesis and radiation. 
-
 ### Settling Marvel vs DC: Movie Success
 
 ![alt text][logo5]
