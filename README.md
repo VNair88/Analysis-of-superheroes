@@ -2,7 +2,7 @@
 ### Co-authors : Palak Bhatia, Ben Richman 
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/ba09c516a76763c42b7fa1f462150a43b9c2f84c/notebook/Superheroes.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/VNair88/Analysis-of-superheroes/blob/24dcea8ed1f55bd81956f0e143e4cdea68d6a03f/notebook/Superheroes.ipynb)
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
